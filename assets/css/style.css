@@ -18,23 +18,44 @@ img {
 }
 #contact {
     color: gray;
-    border: 1px gray solid;
+    width: 900px;
+    border: 1px gray solid; justify-content: center;
+    padding: 30px;
+    margin-left: auto;
+    margin-top: 10%;
 }
-h2 {
+h1 {
     width: 950px;
     border: 10px aqua;
     margin-left: 110px;
+}
+h2 {
+    font-size: 30px;
+    color: aqua;
 }
 h4 {
     width: 950px;
     border: 1px gray solid;
     margin: auto;
+    margin-top: 0%;
+    margin-left: 1%;
     font-size: 15px;
 }
 h3 {
     font-size: 20px;
-    margin-left: 265px;
+    margin-left: 0px;
 }
 p {
     border: 1px gray;
+}
+.button {
+    color: white;
+    background-color: aqua;
+}
+div {
+    margin: auto;
+}
+p.one {
+    border-style: solid;
+    border-width: 10px;
 }
