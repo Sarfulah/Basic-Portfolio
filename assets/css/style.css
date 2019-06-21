@@ -23,4 +23,18 @@ img {
 h2 {
     width: 950px;
     border: 10px aqua;
+    margin-left: 110px;
+}
+h4 {
+    width: 950px;
+    border: 1px gray solid;
+    margin: auto;
+    font-size: 15px;
+}
+h3 {
+    font-size: 20px;
+    margin-left: 265px;
+}
+p {
+    border: 1px gray;
 }
