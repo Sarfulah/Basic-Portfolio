@@ -65,4 +65,10 @@ p.one {
         border: 1px solid gray;
         padding: 80px;
         margin: 7px;
-      }
+}
+footer {
+    text-align: center;
+    border-style: inset;
+    background: gray;
+}
+
